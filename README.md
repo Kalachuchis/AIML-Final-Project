@@ -6,6 +6,10 @@ conda env create -f environment.yml
 conda activate FinalProject
 ```
 
+## Updating environment
+```
+ conda env update --name FinalProject --file environment.yml  --prune
+```
 ## Exporting environment
 ```
 conda env export > environment.yml
