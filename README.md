@@ -1,3 +1,6 @@
 # Final Project for Pointwest AIML Bootcamp 2023
 
-## TESTTEST
+## How to use the environment
+```
+conda activate ./final-project-env
+```
