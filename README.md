@@ -3,6 +3,7 @@
 ## How to use the environment
 ```
 conda env create -f environment.yml
+conda activate FinalProject
 ```
 
 ## Exporting environment
