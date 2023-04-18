@@ -1,0 +1,4 @@
+name: FinalProject
+channels:
+  - defaults
+prefix: /home/iggy/miniconda3/envs/FinalProject
