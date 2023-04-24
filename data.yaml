@@ -1,0 +1,6 @@
+path: ../data
+train: images/train
+val: images/val
+
+nc: 10
+names: ['glove', 'goggles', 'helmet', 'mask', 'no_glove', 'no_goggles', 'no_helmet', 'no_mask', 'no_shoes', 'shoes']
